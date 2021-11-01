@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "311876876348",
+    "project_id": "videoapp-f383b",
+    "storage_bucket": "videoapp-f383b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311876876348:android:1f6a32f1304dfe33042b39",
+        "android_client_info": {
+          "package_name": "com.example.youtubeclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311876876348-2024sipfeaqjke8fajp7rnkm6j8t4r7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtubeclone",
+            "certificate_hash": "02aa6d83980b0a36f8edab2b5ad46891a0bcc8ab"
+          }
+        },
+        {
+          "client_id": "311876876348-7f174ei92nn4prm2t7ht9el9s1jtvgff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxIgfY8i1_uu_3J6gA912cTgmn3TuK84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311876876348-7f174ei92nn4prm2t7ht9el9s1jtvgff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
